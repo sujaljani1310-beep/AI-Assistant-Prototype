@@ -20,7 +20,5 @@ It includes three interaction modes — **Basic**, **Auto**, and **Manual** — 
 
 ## 📸 Screenshots
 Here are a few snapshots from my V0 prototype showing the multi-AI interface and different mode layouts:
-![Main Interface](<img width="1728" height="942" alt="Screenshot 2025-10-27 at 4 03 58 PM" src="https://github.com/user-attachments/assets/9c0adaf0-de4a-4dc9-81af-3655c034be83" />
-)
-![Mode Switching View](<img width="1724" height="935" alt="Screenshot 2025-10-27 at 4 05 26 PM" src="https://github.com/user-attachments/assets/ea87125b-b92b-45c5-b792-244443cd2d30" />
-)
+![Main Interface]()
+![Mode Switching View] ()
